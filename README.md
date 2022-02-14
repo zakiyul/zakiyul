@@ -24,7 +24,7 @@
 ### Reach me on
 - <a href="https://www.linkedin.com/in/zakiul-fikri-4337641b4/">LinkedIn</a>
 - zakiyul.py@gmail.com
-- <a href="https://twitter/zekiul">Twitter</a>
+- <a href="https://twitter.com/zekiul">Twitter</a>
 <!--
 **zakiyul/zakiyul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
