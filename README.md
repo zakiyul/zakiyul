@@ -1,14 +1,14 @@
 ### Hi there 👋
 # Halo semua! 
 
-Perkenalkan nama saya **Lalu Muhamad Zakiul Fikri**.\
+Perkenalkan nama saya **Lalu Muhamad Zakiul Fikri**.
 
-Saya seorang **Frontend Developer** di [ITEC](https://itec.sch.id/).\
+Saya seorang **Frontend Developer** di [ITEC](https://itec.sch.id/).
 
 Saya bertanggung jawab pada pengembangan web cms untuk Lpkn Training Center.
-(http://www.lpkntrainingcenter.sch.id/).\
+(http://www.lpkntrainingcenter.sch.id/).
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/zakiul-fikri-4337641b4/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin] (https://www.linkedin.com/in/zakiul-fikri-4337641b4/) ku ya.
 
 
 <!--
