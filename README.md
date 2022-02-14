@@ -1,7 +1,6 @@
-### Hi there 👋
-# Halo semua! 
+### Hi there 👋 
 
-i'm web dev :)
+🌱 I’m currently learning web development
 
 
 <!--
